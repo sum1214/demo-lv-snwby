@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
     private Button button;
     private TextView textView;
 
+
     // ASR Variables
     private SpeechRecognizer speechRecognizer;
 
